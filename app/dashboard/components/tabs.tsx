@@ -18,7 +18,6 @@ import {
   TabsList,
   TabsTrigger,
 } from "@/components/ui/tabs"
-import { SectionCard } from "../components/section-cards"
 
 interface EventSummary {
   total: number

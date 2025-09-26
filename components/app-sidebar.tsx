@@ -72,16 +72,6 @@ const data = {
       title: "Table",
       url: "/table",
       icon: IconListDetails,
-    },
-    {
-      title: "Alert Dialog",
-      url: "/dialog",
-      icon: IconListDetails,
-    },
-    {
-      title: "Tab",
-      url: "/tab",
-      icon: IconListDetails,
     }
   ],
   navClouds: [
